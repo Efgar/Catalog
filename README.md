@@ -21,17 +21,17 @@ In order to see the available endpoints please check the postman collection prev
 
 #### Libraries used:
 
-> Spring (Core, MVC, Data, Security, Boot)
-> Lombok
+* Spring (Core, MVC, Data, Security, Boot)
+* Lombok
 
 #### Database:
 
-> The application uses a out of the box embedded h2 database, the necessary tables will be created on boot.
+* The application uses a out of the box embedded h2 database, the necessary tables will be created on boot.
 
 #### Known issues:
 
-> No unit tests implemented
-> There is a minor bug on product creation where the categories paths are not being properly echoed.
+* No unit tests implemented
+* There is a minor bug on product creation where the categories paths are not being properly echoed.
 
 ## Contact information
 email: edguitar000@gmail.com
