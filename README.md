@@ -8,6 +8,9 @@ Trello board with the tasks created for this small project can be found [here](h
 To run some basic regression tests you can do:
 
 > $ npm install -g newman
+
+and then
+
 > newman run https://www.getpostman.com/collections/e278a73a4c5197f88011
 
 or download the collection and run it from [postman](https://www.getpostman.com/).
